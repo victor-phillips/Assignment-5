@@ -1,0 +1,33 @@
+.image {
+  float: right;
+}
+
+.input {
+  background-color: blue;
+}
+
+.button {
+  background-color: aqua;
+  color: red;
+}
+
+.out1 {
+  text-align: center;
+  width: 125px;
+  border-style: double;
+  background-color: yellow;
+}
+
+.out2 {
+  text-align: center;
+  width: 125px;
+  border-style: double;
+  background-color: red;
+}
+
+.out3 {
+  text-align: center;
+  width: 125px;
+  border-style: double;
+  background-color: magenta;
+}
