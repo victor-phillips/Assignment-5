@@ -1,5 +1,5 @@
 // setup standard variables
-let d = 0
+const d = 0
 let r = 0
 let a = 0
 let c = 0
@@ -15,7 +15,7 @@ function checker () {
     alert('error:the inputed diameter must be above 0')
   }
   if (d > 0) {
-    calculate ()
+    calculate()
   }
 }
 // calculates the Area, Circomference and Radius and displays them
