@@ -18,7 +18,7 @@ function checker () {
     calculate()
   }
 }
-// calculates the Area, Circomference and Radius and displays them
+// calculates the Area, Circumference and Radius and displays them
 function calculate () {
   d = document.getElementById('input').value
   d = parseInt(d)
