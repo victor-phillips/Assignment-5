@@ -11,7 +11,7 @@ document.getElementById('button').addEventListener('click', checker)
 function checker () {
   d = document.getElementById('input').value
   d = parseInt(d)
-  if (d < 0) {
+  if (d <= 0) {
     alert('error:the inputed diameter must be above 0')
   }
   if (d > 0) {
